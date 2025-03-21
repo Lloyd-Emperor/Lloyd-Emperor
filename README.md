@@ -19,9 +19,9 @@ I'm a passionate **MERN Stack Developer** and **Data Analyst** from Nigeria. I l
 - 🤖 **Telegram Degen Trading Bot** - Advanced trading bot with copy trading and front-running detection.
 
 ## 💬 Connect with Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/akhigbe-honour)
-- Twitter: [Your Twitter](https://x.com/honour_da_boss)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- LinkedIn: https://www.linkedin.com/in/akhigbe-honour
+- Twitter: https://x.com/honour_da_boss
+- Portfolio: https://yourportfolio.com
 
 ## 📫 How to Reach Me
 - Email: honourakhigbe6@example.com
