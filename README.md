@@ -4,7 +4,7 @@
 I'm a passionate **MERN Stack Developer** and **Data Analyst** from Nigeria. I love building innovative solutions and analyzing data to gain insights. 
 
 ## 🚀 What I Do
-- 💻 Full-Stack Web Development (MERN)
+- 💻 Full-Stack Web Development (MERN) and Python
 - 📊 Data Analysis and Visualization
 - 💡 Building Trading Bots and Automation Tools
 
@@ -16,6 +16,7 @@ I'm a passionate **MERN Stack Developer** and **Data Analyst** from Nigeria. I l
 ## 🔥 Projects
 - 👫 **Couples and Lovers Retreat** - A ticketing and event management platform.
 - 💒 **Church Donation Website** - Secure and easy-to-use donation platform with Paystack integration.
+- 💬 **Python Chatbot with Tkinter** - An interactive desktop chatbot built with Python and Tkinter for a seamless user experience.
 - 🤖 **Telegram Degen Trading Bot** - Advanced trading bot with copy trading and front-running detection.
 
 ## 💬 Connect with Me
