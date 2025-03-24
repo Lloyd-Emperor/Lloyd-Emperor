@@ -18,6 +18,7 @@ I'm a passionate **MERN Stack Developer** and **Data Analyst** from Nigeria. I l
 - 💒 **Church Donation Website** - Secure and easy-to-use donation platform with Paystack integration.
 - 💬 **Python Chatbot with Tkinter** - An interactive desktop chatbot built with Python and Tkinter for a seamless user experience.
 - 🤖 **Telegram Degen Trading Bot** - Advanced trading bot with copy trading and front-running detection.
+- 📊 **GradeWise** - Student Performance Evaluation System - A web application for evaluating student performance with detailed feedback and grading.
 
 ## 💬 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/akhigbe-honour
