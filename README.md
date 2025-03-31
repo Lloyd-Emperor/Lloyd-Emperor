@@ -1,7 +1,7 @@
 # Hi 👋 My name is Akhigbe Honour
   ===============================
 
-I'm a passionate **MERN Stack Developer** and **Data Analyst** from Nigeria. I love building innovative solutions and analyzing data to gain insights. 
+I'm a passionate **Full-Stack Developer (MERN)** and **Data Analyst** from Nigeria. I love building innovative solutions and analyzing data to gain insights. 
 
 ## 🚀 What I Do
 - 💻 Full-Stack Web Development (MERN) and Python
