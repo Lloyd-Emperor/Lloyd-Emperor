@@ -26,7 +26,7 @@ I'm a passionate **Full-Stack Developer (MERN)** and **Data Analyst** from Niger
 - Portfolio: https://yourportfolio.com
 
 ## 📫 How to Reach Me
-- Email: honourakhigbe6@example.com
+- Email: honourakhigbe6@gmail.com
 - Telegram: @AkhigbeHonour
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch.
