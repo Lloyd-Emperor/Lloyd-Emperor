@@ -11,7 +11,7 @@ I'm a passionate **Full-Stack Developer (MERN)** and **Data Analyst** from Niger
 ## 🌱 Currently Learning
 - Advanced Smart Contract Development on Solana
 - Building industry standard websites with Python
-- Building Scalable Backends with Node.js and MongoDB
+- Mobile App development with React Native
 
 ## 🔥 Projects
 - 👫 **Couples and Lovers Retreat** - A ticketing and event management platform.
