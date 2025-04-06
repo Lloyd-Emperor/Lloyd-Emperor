@@ -23,7 +23,7 @@ I'm a passionate **Full-Stack Developer (MERN)** and **Data Analyst** from Niger
 ## 💬 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/akhigbe-honour
 - Twitter: https://x.com/honour_da_boss
-- Portfolio: https://yourportfolio.com
+- Portfolio: https://lloyd-emperor.vercel.app
 
 ## 📫 How to Reach Me
 - Email: honourakhigbe6@gmail.com
